@@ -1,4 +1,4 @@
-# tsrint09
+# tsrint09h
 
 Programa que detecta la polsació de la tecla F3 i escriu la comanda dir<cr> al buffer de teclat.
 
